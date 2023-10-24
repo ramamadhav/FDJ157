@@ -3,4 +3,5 @@ public class A
 Syso("welcome");
 syso("hello");
 syso("hi ji");
+
 }
